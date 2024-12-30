@@ -8,3 +8,7 @@ function greetUser(name) {
 // Example usage
 const userName = 'Muska';
 console.log(greetUser(userName));
+
+//modify this file line added
+
+console.log("feature-1 make changes");
